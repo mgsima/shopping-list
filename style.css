@@ -74,7 +74,7 @@ button {
     background-color: white;
     flex-grow: 1;
     flex-basis: 0;
-    min-width: 30%;
+    min-width: 300px;
   }
 
 .done {
